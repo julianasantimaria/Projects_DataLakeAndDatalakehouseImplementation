@@ -48,3 +48,4 @@ Make sure you have Docker and accounts in the Azure, AWS and GCP clouds.
 - AWS
 - GCP
 - Azure
+- Python
