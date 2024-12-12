@@ -7,8 +7,7 @@ This repository contains a series of Projects that implement Data Lake and Datal
 in creation
 
 <br/><br/>
-Project1 - 
-
+Project1 - In this project we built an AWS Data Lake environment with all data implementation steps. (extraction, upload - AWS, lineage, observability, quality, enrichment and governance). In the end, everything will be automated to run daily with incremental loads.
 
 <br/><br/>
 Project2 - 
