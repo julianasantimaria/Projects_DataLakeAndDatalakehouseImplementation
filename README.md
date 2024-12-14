@@ -45,6 +45,8 @@ Make sure you have Docker and accounts in the Azure, AWS and GCP clouds.
 ```bash
 - Docker
 - AWS
+- CloudFormatin
+- S3
 - Databricks
 - SQL
 - Python
