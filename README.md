@@ -10,7 +10,7 @@ in creation
 Project1 - In this project we built an AWS Data Lake environment with all data implementation steps. (extraction, upload - AWS, lineage, observability, quality, enrichment and governance). In the end, everything will be automated to run daily with incremental loads.
 
 <br/><br/>
-Project2 - 
+Project2 - This project used the features of Delta Lake, a powerful storage layer for Data Lakes, focusing on CRUD (Create, Read, Update, Delete) operations and the Time Travel feature. Thus, we were able to manipulate data efficiently, make incremental changes to Delta tables, and consult historical versions of the data for auditing and recovery. An initial data mass was created, update and delete operations were performed, new records were inserted, and analyses were performed with filters and groupings, all while ensuring the reliability and intrinsic versioning of Delta Lake.
 
 <br/><br/>
 Project3 - 
